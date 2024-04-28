@@ -1,0 +1,84 @@
+{
+    "window.menuBarVisibility": "toggle",
+    "workbench.colorTheme": "Catppuccin Mocha",
+    "workbench.iconTheme": "catppuccin-mocha",
+    "editor.matchBrackets": "never",
+    "editor.fontFamily": "'Noto Fonts'",
+    "editor.cursorBlinking": "smooth",
+    "editor.cursorWidth": 4,
+    "terminal.integrated.cursorStyle": "underline",
+    "terminal.integrated.cursorWidth": 4,
+    "workbench.colorCustomizations": {
+    "editorCursor.foreground": "#fff281",
+    "terminalCursor.foreground": "#fff281"
+},
+"vscode-pets.throwBallWithMouse": true,
+"vscode-pets.theme": "forest",
+"vscode_custom_css.imports": [
+	"file:/home/carl/.vscode/scripts/cursor.js"
+],
+"security.workspace.trust.untrustedFiles": "newWindow",
+"terminal.integrated.defaultProfile.linux": "zsh",
+"terminal.integrated.profiles.linux": {
+
+    "bash": {
+        "path": "bash",
+        "icon": "terminal-bash"
+    },
+    "zsh": {
+        "path": "zsh",
+        "icon": "terminal-bash"
+    },
+    "fish": {
+        "path": "fish"
+    },
+    "tmux": {
+        "path": "tmux",
+        "icon": "terminal-tmux"
+    },
+    "pwsh": {
+        "path": "pwsh",
+        "icon": "terminal-powershell"
+    }
+},
+"explorer.confirmDragAndDrop": false,
+"liveServer.settings.donotVerifyTags": true,
+"python.createEnvironment.trigger": "off",
+"cSpell.userWords": [
+    "direccion"
+],
+"explorer.confirmDelete": false,
+"github.copilot.enable": {
+    "*": false,
+    "plaintext": false,
+    "markdown": false,
+    "scminput": false
+},
+"[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+},
+"[javascript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+},
+"[jsonc]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+},
+"[typescript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+},
+"window.zoomLevel": 1,
+"workbench.activityBar.location": "top",
+"window.customTitleBarVisibility": "auto",
+"[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+},
+"[json]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+},
+"editor.fontSize": 16,
+"terminal.external.linuxExec": "kitty",
+"terminal.integrated.cursorBlinking": true,
+"terminal.integrated.fontFamily": "Noto Sans Extra,FontAwesome",
+"terminal.integrated.unicodeVersion": "6",
+"terminal.integrated.rightClickBehavior": "paste",
+}
