@@ -55,7 +55,7 @@
     "scminput": false
 },
 "[javascriptreact]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
+    "editor.defaultFormatter": "vscode.typescript-language-features"
 },
 "[javascript]": {
     "editor.defaultFormatter": "vscode.typescript-language-features"
@@ -81,4 +81,11 @@
 "terminal.integrated.fontFamily": "Noto Sans Extra,FontAwesome",
 "terminal.integrated.unicodeVersion": "6",
 "terminal.integrated.rightClickBehavior": "paste",
+"editor.guides.bracketPairs": true,
+"prisma.showPrismaDataPlatformNotification": false,
+"[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+},
+"git.openRepositoryInParentFolders": "never",
+"explorer.confirmPasteNative": false,
 }
